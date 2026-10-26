@@ -1,4 +1,5 @@
 
+// Лабораторна робота №1
 #include <stdio.h>
 #include <windows.h>
 
